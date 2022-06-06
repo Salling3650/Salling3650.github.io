@@ -1,0 +1,13 @@
+<span id="a">root@salling3650</span>:<span id="b">~</span><span id="c">$</span> cd home/salling/
+<span id="a">root@salling3650</span>:<span id="b">~</span><span id="c">$</span> ls
+info.txt miscellaneous.txt
+<span id="a">root@salling3650</span>:<span id="b">~</span><span id="c">$</span> cat info.txt<br/><br/>
+<h4>Info<h4/>
+Hi I'm Salling. I have been coding since 2017 in python, c# and I know a little about Java and I'm trying to learn Linux. I have been growing and managing multiple Instagram accounts with +10k followers.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Discord  <a href="https://discord.gg/APxpdVuyRw">link</a>.</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+Github  <a href="https://github.com/Salling3650?tab=repositories">link</a>.</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+<p>太く短く生きる</p>
+<p>Blank</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br/><br/>
+<span id="a">root@salling3650</span>:<span id="b">~</span><span id="c">$</span> cat miscellaneous.txt
+<h4>Miscellaneous<h4/>
+<p>My hardware is a M1 MacBook pro 2020 with 8gb of ram. <a href="https://youareanidiot.cc">Don't click</a></p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
+<p>- Doing it for the lulz<p/>
